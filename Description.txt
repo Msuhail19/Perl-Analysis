@@ -1,0 +1,4 @@
+Goal :
+Use either text box or URL to retrieve code in text form.
+Analyse text in order to find the number of comments and their types, and the number of elements of intstruction as well as a number
+of other categories.
